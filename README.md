@@ -6,4 +6,4 @@ potrà essere modificato dai docenti), gli alunni che si autenticheranno success
 di ritardo.
 Il "Docente" avrà una sezione "Uscita anticipata" dove dovrà indicare l'orario, e l'"Alunno" dovrà autenticarsi per confermare la richiesta d'uscita anticipata, dopo l'orario
 indicato per uscire, l'"Alunno" dovrà autenticarsi nuovamente per confermare l'uscita. L'applicazione inserirà l'alunno nella lista "Alunni usciti" solo se si è superato l'orario
-indicato ed è stata effettuata precedentemente la risciesta d'uscita anticipata.
+indicato ed è stata effettuata precedentemente la risciesta d'uscita anticipata...
